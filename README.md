@@ -30,3 +30,10 @@ Este projeto demonstra um sistema modularizado de gestão de pedidos para e-comm
 ```bash
   python main.py
 ```
+
+3. Exemplo de output:
+```bash
+  Melhor transportadora: C com custo: R$21.0
+  Etiqueta gerada: EtiquetaC-PED12345
+  Status do pedido: StatusC para R123456789BR
+```
