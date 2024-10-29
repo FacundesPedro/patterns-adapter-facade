@@ -21,12 +21,12 @@ Este projeto demonstra um sistema modularizado de gestão de pedidos para e-comm
 ## Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/ecommerce_shipping.git
-   cd ecommerce_shipping
- ```
- 
- 2. Execute o arquivo **main.py** para simular o sistema:
 ```bash
-    python main.py
+  git clone https://github.com/FacundesPedro/patterns-adapter-facade
+  cd patterns-adapter-facade
+```
+ 
+2. Execute o arquivo main.py para simular o sistema:
+```bash
+  python main.py
 ```
